@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(){
-  printf("lksjfsl;\n");
+  printf("프린트\n");
   return 0;
 }
